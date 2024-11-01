@@ -13,6 +13,6 @@ defmodule HelloWorld do
 
   """
   def hello do
-     "hello world"
+     "hello world 2"
   end
 end
