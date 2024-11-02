@@ -13,9 +13,9 @@ defmodule HelloWorld do
 
   """
   def hello do
-     "hello world 4"
+     "hello world 5"
   end
   def version do
-     "4"
+     "5"
   end
 end
