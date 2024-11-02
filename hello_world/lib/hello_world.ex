@@ -15,4 +15,7 @@ defmodule HelloWorld do
   def hello do
      "hello world 2"
   end
+  def version do
+     "1"
+  end
 end
