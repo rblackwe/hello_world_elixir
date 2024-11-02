@@ -13,7 +13,7 @@ defmodule HelloWorld do
 
   """
   def hello do
-     "hello world 2"
+     "hello world 3"
   end
   def version do
      "1"
